@@ -1,1 +1,1 @@
-This is a simple app evaluating the weather
+This is a simple app evaluating the weather and temperature
